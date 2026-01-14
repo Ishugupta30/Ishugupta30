@@ -26,7 +26,7 @@
   - Greedy & Bit Manipulation
 - 🧩 Comfortable translating problem statements into efficient solutions
 
-🔗 **LeetCode Profile:** https://leetcode.com/Ishugupta30/
+🔗 **LeetCode Profile:** https://leetcode.com/u/f20220172/
 
 ---
 
@@ -80,7 +80,7 @@
 - 📧 Email: **ishugupta302005@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/ishu-gupta-936810272
 - 🧑‍💻 GitHub: https://github.com/Ishugupta30
-- 🧩 LeetCode: https://leetcode.com/Ishugupta30/
+- 🧩 LeetCode: https://leetcode.com/u/f20220172/
 
 ---
 
